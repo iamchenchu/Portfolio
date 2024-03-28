@@ -1,0 +1,8 @@
+scp  ./Users/mekalathuruchenchaiah/Desktop/VisDrone2019-DET-train.zip chenchaiah.mekalathu@Lawrence.usd.edu:/home/usd.local/chenchaiah.mekalathu
+
+scp -r  /Users/mekalathuruchenchaiah/Desktop/VisDrone2019-DET-train chenchaiah.mekalathu@Lawrence.usd.edu:/home/usd.local/chenchaiah.mekalathu/.
+
+
+
+user.name@lawrence.usd.edu's password: 
+file.name              100% 8893     8.7KB/s   00:00
